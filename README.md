@@ -19,7 +19,7 @@ Completely Transparent StatusBar for all Devices
     
     .
     .
-    //
+    /
 
 
 #Functions Used to Create Full screen theme .Find ##Utils Class## in Project 
