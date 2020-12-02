@@ -34,5 +34,6 @@ if (Build.VERSION.SDK_INT >= 19 && Build.VERSION.SDK_INT < 21) {
           activity.getWindow().setNavigationBarColor(-7829368);//..color gray 
 
         }
-![Screenshot_20201202_202500](https://user-images.githubusercontent.com/33365906/100893291-37991f80-34e1-11eb-986b-f11a3ccc81a9.jpg)
+
+![Screenshot_20201202_202500](https://user-images.githubusercontent.com/33365906/100893654-98285c80-34e1-11eb-8cfc-4d2f8fba35c8.jpg)
 
