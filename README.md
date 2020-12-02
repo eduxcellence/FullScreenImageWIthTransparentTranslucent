@@ -3,7 +3,7 @@
 ## Making activity full screen with status bar on top of it.
 
 
-## Just Call This Static Method after on Create 
+#### Just Call This Static Method after on Create 
 
 
   @Override
@@ -17,7 +17,7 @@
     
    
 
-# Functions Used to Create Full screen theme .Find ##Utils Class## in Project 
+#### Functions Used to Create Full screen theme .Find ##Utils Class## in Project 
  
  
 if (Build.VERSION.SDK_INT >= 19 && Build.VERSION.SDK_INT < 21) {
